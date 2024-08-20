@@ -1,0 +1,5 @@
+string command
+---
+bool is_successful
+string reason
+string status_now

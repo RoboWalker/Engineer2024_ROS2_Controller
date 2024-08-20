@@ -1,0 +1,14 @@
+[Unit]
+Description=Engineer autorun
+After=multi-user.target
+
+[Service]
+Type=exec
+ExecStart=/home/engineer/autorun.sh
+Restart=always
+# https://answers.ros.org/question/367935/systemd-does-not-work-with-ros2/
+Environment="HOME=root"
+
+[Install]
+WantedBy=default.target
+

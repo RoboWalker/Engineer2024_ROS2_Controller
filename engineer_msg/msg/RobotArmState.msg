@@ -1,0 +1,3 @@
+uint8 auto_action
+bool auto_action_ready
+bool robotarm_alive

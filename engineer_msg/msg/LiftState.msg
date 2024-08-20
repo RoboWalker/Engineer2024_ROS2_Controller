@@ -1,0 +1,2 @@
+bool rise
+bool fall
