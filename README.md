@@ -4,7 +4,11 @@
 
 RoboWalker战队的工程机器人在区域赛的时候取得了不错的战绩，从区域赛开始基本上稳定单场黄金矿工，并且获得了区域赛东部赛区场均经济最高、单场经济最高。在复活赛，各个强队的工程机器人水平迎头赶上，而我们的工程机器人也出现了一些机械、电路上的战损情况，导致机器人在赛场上的表现有所下滑，不过每场的表现也还算可以接受。现开源工程机器人上位机代码，希望和各队伍多多交流。
 
-此外，工程机器人机械结构、自定义控制器机械结构、自定义控制器代码和工程机器人下位机代码也将陆续开源。
+嵌入式代码仓库：https://github.com/RoboWalker/Engineer_2024_Embedding
+
+自定义控制器代码仓库：https://github.com/RoboWalker/Engineer2024_Custom_Contoller
+
+技术文档（完整形态考核版本）：https://github.com/RoboWalker/Engineer2024_Custom_Contoller/blob/main/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6RoboWalker_2024%E5%B7%A5%E7%A8%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3.pdf
 
 ### 贡献者
 
